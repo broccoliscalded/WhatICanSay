@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WhatICanSay</string>
+    <string name="button_one">BUTTON ONE</string>
+    <string name="button_two">BUTTON TWO</string>
 </resources>
