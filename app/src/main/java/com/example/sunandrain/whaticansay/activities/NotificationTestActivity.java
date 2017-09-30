@@ -9,6 +9,7 @@ import android.view.View;
 import com.example.sunandrain.whaticansay.R;
 
 public class NotificationTestActivity extends AppCompatActivity implements View.OnClickListener {
+    
 
     public static Intent newIntent(Context context){
         return new Intent(context,NotificationTestActivity.class);
